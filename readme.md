@@ -1,9 +1,9 @@
-##Neural Network - Perceptron
-####By David Anthony Bell
+## Neural Network - Perceptron
+#### By David Anthony Bell
 #### An entry level perceptron based Neural Network, heavily inspired by:
-####https://www.youtube.com/watch?v=kft1AJ9WVDk
+#### https://www.youtube.com/watch?v=kft1AJ9WVDk
 #### The input shows that if the array starts with a 1, the output is 1.
-###Example set
+### Example set
 INPUTS | INPUTS | INPUTS | OUTPUT
 --- | --- | --- | ---
 0 | 0 | 1 | 0 
