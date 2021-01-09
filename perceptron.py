@@ -44,4 +44,3 @@ class perceptron:
 
         print('Outputs after training')
         print(outputs)
-        return synaptic_weights
