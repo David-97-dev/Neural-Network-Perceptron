@@ -19,7 +19,7 @@ class perceptron:
                                    [1,0,1],
                                    [0,1,1]])
 
-        training_outputs = np.array([[0,1,1,0]]).T
+        training_outputs = np.array([[0,2,2,0]]).T
 
         np.random.seed(1)
 

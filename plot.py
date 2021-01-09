@@ -9,7 +9,7 @@ class plot:
     @staticmethod
     def plotter(synaptic_weights):
 
-        list = plot.get_list(synaptic_weights)
+        #list = plot.get_list(synaptic_weights)
         plt.style.use('ggplot')
         plt.title('weights')
         plt.ylabel('Non-linear x')
@@ -19,7 +19,7 @@ class plot:
         sig = plot.sigmoid(Xaxis)
         plt.plot(Xaxis, sig, zorder=1)
 
-        plt.show()
+        #plt.show()
 
     def sigmoid(x):
         a = []
